@@ -54,7 +54,7 @@ body {
     font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-sizing: border-box;
-    border-bottom: 5px solid rgba(52, 219, 213, 0.3);
+    border-bottom: 5px solid rgba(52, 200, 219, 0.5);
     box-shadow: 0 4px 8px rgba(71, 139, 139, 0.5);
     transform: translate(0px);
 }
